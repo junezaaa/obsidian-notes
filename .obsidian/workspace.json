@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "1cf21e15f2c72abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "527b4ead39263dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c833fa26c01f48a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59ee98bb0221d1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ab8afa090ec13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac950dacb5a9d3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5745ef8dab738d36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5039ee95e934f7d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e73cc46c1d21fe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5c3d508532e5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ceab1284ad49ecd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2fa8e1d6fcdd1aea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-02-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-14"
+            }
+          },
+          {
+            "id": "2e08484ca1157c04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fe6873974402256",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "faa0476a5312fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-14.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-14"
+            }
+          },
+          {
+            "id": "cee554074d76515c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "9c833fa26c01f48a",
+  "lastOpenFiles": [
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Venn.png",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Domain Knowledge.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Venn Diagram.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Prescriptive Analytic.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Predictive Analytic.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Modern Data Science.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/London 1854 Cholera Outbreak.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Diagnostic Analytics.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Descriptive Analytics.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Data Analytic.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Big Data.md",
+    "obsidian-repo/remote-repo/DS322/DS Process/Data Gathering.md",
+    "obsidian-repo/remote-repo/DS322/DSMOC/ML MOC.md",
+    "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Statistic MOC.md",
+    "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Process MOC.md",
+    "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Introduction MOC.md",
+    "obsidian-repo/remote-repo/DS322/Introduction to Data Science",
+    "obsidian-repo/remote-repo/DS322/DSMOC",
+    "obsidian-repo/remote-repo/DS322/DS Process",
+    "obsidian-repo/remote-repo/DS322/Data Science Maps of Content (สารบัญ).md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260216234855.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260216234844.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260216233358.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260216233101.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260216232759.png",
+    "obsidian-repo/remote-repo/DS322",
+    "obsidian-repo/remote-repo/Attachment",
+    "obsidian-repo/remote-repo",
+    "obsidian-repo/README.md",
+    "obsidian-repo",
+    "remote-repo/DS322/Introduction to Data Science/Big Data.md",
+    "remote-repo/DS322/DS Process/Data Gathering.md",
+    "remote-repo/DS322/Introduction to Data Science/Prescriptive Analytic.md",
+    "remote-repo/DS322/Introduction to Data Science/Venn.png",
+    "remote-repo/DS322/Introduction to Data Science/Venn Diagram.md",
+    "remote-repo/DS322/Introduction to Data Science/Predictive Analytic.md",
+    "remote-repo/DS322/Introduction to Data Science/Modern Data Science.md",
+    "remote-repo/DS322/Introduction to Data Science/Domain Knowledge.md",
+    "remote-repo/DS322/DSMOC/ML MOC.md",
+    "remote-repo/DS322/DS Process",
+    "remote-repo/DS322/Introduction to Data Science",
+    "remote-repo/DS322/DSMOC",
+    "remote-repo/Attachment/Pasted image 20260216233358.png",
+    "remote-repo/Attachment/Pasted image 20260216234855.png",
+    "remote-repo/Attachment/Pasted image 20260216234844.png",
+    "remote-repo/Attachment/Pasted image 20260216233101.png",
+    "Untitled.canvas"
+  ]
+}

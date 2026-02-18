@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:DS322/DSMOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "file:Data Science Maps of Content",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.35926520531028,
+  "lineSizeMultiplier": 2.42428527323248,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 9.24976844705156,
+  "linkStrength": 0.711392405063291,
+  "linkDistance": 275,
+  "scale": 0.4265749614190198,
+  "close": true
+}
