@@ -1,0 +1,1 @@
+Based on [[Venn Diagram|Data Science Venn Diagram]], it is something that you have a complete understanding about the how and why regarding a specific context, field, or activity. (e.g. Medical, Coding)
