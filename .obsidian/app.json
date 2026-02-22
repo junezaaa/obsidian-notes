@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "openBehavior": "file:Computer Science House of Content",
+  "attachmentFolderPath": "obsidian-repo/remote-repo/Attachment"
 }
