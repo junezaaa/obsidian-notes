@@ -15,23 +15,30 @@
       }
     },
     {
-      "query": "file:Data Science Maps of Content",
+      "query": "tag:#COURSEMOC ",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#HomePg  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.35926520531028,
-  "lineSizeMultiplier": 2.42428527323248,
+  "nodeSizeMultiplier": 2.4734375,
+  "lineSizeMultiplier": 2.14166666666667,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.24976844705156,
-  "linkStrength": 0.711392405063291,
-  "linkDistance": 275,
-  "scale": 0.4265749614190198,
+  "centerStrength": 0.34375,
+  "repelStrength": 20,
+  "linkStrength": 0.588541666666667,
+  "linkDistance": 250,
+  "scale": 0.21702508171243837,
   "close": true
 }
