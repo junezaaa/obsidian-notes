@@ -1,0 +1,4 @@
+- Mutual Exclusion: Only one process may use a resource at a time.
+- Hold-and-wait: A process may hold allocated resource while awaiting assignment of others.
+- No pre-emption : No interruption from a process holding a resource.
+- Circular wait : A chain where each processes holds at least one resources needed by the next process in the chain. ^c98ad5
