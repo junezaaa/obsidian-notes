@@ -1,0 +1,1 @@
+- Maximum number of processes that are kept in main memory at any single time. **(How busy the CPU is)**

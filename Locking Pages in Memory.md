@@ -1,0 +1,7 @@
+- Virtual mem and I/O occasionally interact 
+- Proc issues call for read from device into buffer
+	- While waiting for i/o, another proc starts up
+	- has a pg fault
+	- buffer for the first proc may be chosen to be pg out
+- Need to specify some pgs locked
+	- Exempted from being target pages

@@ -1,0 +1,5 @@
+- Determines when a page should be brought into mem
+- [[Demand Paging]] only brings pages into main mem when a ref is made to it
+	- Many page fault when proc first started
+- Pre-paging brings in more pages than needed
+	- More eff to bring in pgs that reside contiguously on the disk

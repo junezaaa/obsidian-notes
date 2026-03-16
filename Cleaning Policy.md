@@ -1,0 +1,7 @@
+- Need for a background proc, *paging daemon (pre-cleaning)*
+	- Periodically inspects state of mem
+- Pre-cleaning : pages are written out in batches, offline, periodically
+- When too few frame are free, paging daemon
+	- selects pages to evict using a [[Page Replacement Algorithm|replacement algorithm]]
+	- can use same circular list (clock)
+		- as regular page replacement algo but with different pointers

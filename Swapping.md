@@ -1,0 +1,3 @@
+- A process can be swapped temporarily out of memory to a **backing store (Disk)** and then brought back into memory for continued execution.
+- Most time are spent on the transfer time; which is directly proportional to the amount swapped.
+- Swapping back to what physical address (same addr or not) is depend on the [[Address Binding]]

@@ -1,0 +1,5 @@
+- A software counter associated with each page table entry, init zero
+- At each clock interrupt the [[Not Recently Used Algorithm#^84028e|R bit]] of each page is added to the counter
+	- Remove the page with the lowest counter
+- Algo never forget anything
+- ![[Pasted image 20260314225541.png|243]]

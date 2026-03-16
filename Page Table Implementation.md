@@ -1,0 +1,9 @@
+- [[Paging System|Page Table]] is kept in main memory.
+- **Page-table base register (PTBR)** points to the pg table
+- **Page-table length register (PTLR)** indicates size of the pg table
+-  Each virtual memory reference can cause [[Paging Hardware|two physical memory access]]
+	- One to fetch the pg table
+	- One to fetch the data
+- The two above access is a **big problem** because it **doubles** the memory access time. ^0ad2a4
+	- To overcome this, *a lookup hardware cache* is set up for pg table entries. ^e3be74
+		- Called **associative memory** or [[Translation Lookaside Buffer]]

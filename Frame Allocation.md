@@ -1,0 +1,6 @@
+- Global replacement - proc select a [[Page Replacement Algorithm#^9a48bf|replacement frame]] from the set of all frame; one proc can take a frame from another.
+	- Proc exe time are vary
+	- But greater throughput so more common
+- Local replacement - each proc selects from only its own set of alloc frame
+	- more consistent per-proc performance
+	- Underutilize mem

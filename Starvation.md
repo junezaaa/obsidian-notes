@@ -1,4 +1,3 @@
-#OS 
 
 Starvation is a problem where a **process waits indefinitely for resources**, because another process that may have higher priorities keep interrupting it.
 

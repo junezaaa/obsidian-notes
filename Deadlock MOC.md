@@ -4,7 +4,7 @@
 [[Reusable Resource]]
 [[Consumable Resource]]
 [[Deadlock Condition]]
-[[Resource Allocation Graphs]]
+[[Resource Allocation Graphs]]**
 [[Handling Deadlock]]
 [[Deadlock Prevention]]
 [[Deadlock Avoidance]]

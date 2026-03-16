@@ -1,0 +1,8 @@
+- Efficiency
+	- IO device is slow compared to RAM
+	- [[swapping]] is used to bring in additional ready proc which is an io op
+	- use of multprog allows for some proc to be waiting on io while another proc exe
+- Generality (since io device are vary)
+	- Desirable to handle all io device in a uniform matter
+		- Treated as device files
+		- See device in general terms such as read, write, open, close , lock, unlock

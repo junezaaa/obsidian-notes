@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 61183
       }
+    },
+    {
+      "query": "tag:#MOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.4734375,
+  "nodeSizeMultiplier": 3.13400360482145,
   "lineSizeMultiplier": 2.14166666666667,
   "collapse-forces": false,
-  "centerStrength": 0.34375,
-  "repelStrength": 20,
-  "linkStrength": 0.588541666666667,
-  "linkDistance": 250,
-  "scale": 0.21702508171243837,
-  "close": true
+  "centerStrength": 0,
+  "repelStrength": 16.3489917765011,
+  "linkStrength": 0.456967443956292,
+  "linkDistance": 465,
+  "scale": 0.06455530957966135,
+  "close": false
 }

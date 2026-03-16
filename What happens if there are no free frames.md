@@ -1,0 +1,7 @@
+- Where [[Free Frame|free frame]] of [[VM Key terms#^216ceb|physical mem]] go?
+	- Used up by proc pg
+	- In demand
+- How much to alloc to each?
+- [[Basic Page Replacement|Page replacement]] - find some pg in mem, but not really in use. page it out
+	- Performance - want an algorithm which will result in minimum num of pg fault.
+- Some pg may be brought into mem several times.
