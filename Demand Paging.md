@@ -33,6 +33,6 @@ Aspect:
 	- If p = 0, no pg fault
 	- if p =1, every ref is a fault
 #EAT
-- [[Translation Lookaside Buffer#^aedf73|EAT]] ***= (1 - p) mem acc + p x (pg fault overhead + swap pg out + swap pg in)***
+- [[Translation Lookaside Buffer#^aedf73|EAT]] =![[Pasted image 20260317042016.png|609]]
 	**Example:**
 	 ![[Pasted image 20260314212119.png|589]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems Maps of Content.md",
+                "file": "Page Replacement Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Systems Maps of Content"
+              "title": "Page Replacement Algorithm"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moc",
+                "query": "#eat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Systems Maps of Content.md",
+                "file": "Page Replacement Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for File Systems Maps of Content"
+              "title": "Backlinks for Page Replacement Algorithm"
             }
           },
           {
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Systems Maps of Content.md",
+                "file": "Page Replacement Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from File Systems Maps of Content"
+              "title": "Outgoing links from Page Replacement Algorithm"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Systems Maps of Content.md",
+                "file": "Page Replacement Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File Systems Maps of Content"
+              "title": "Outline of Page Replacement Algorithm"
             }
           },
           {
@@ -347,12 +347,20 @@
   },
   "active": "9c833fa26c01f48a",
   "lastOpenFiles": [
-    "File Sys Backups.md",
-    "File Systems Maps of Content.md",
-    "Operation System Maps of Content.md",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260317034930.png",
+    "Optimal Algorithm.md",
+    "Page Replacement Algorithm.md",
     "Virtual Memory Maps of Content.md",
+    "Least Recently Used Algorithm.md",
+    "Not Recently Used Algorithm.md",
+    "FIFO Algorithm.md",
     "Demand Paging.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260317042016.png",
+    "Translation Lookaside Buffer.md",
+    "Page Size.md",
+    "Operation System Maps of Content.md",
+    "File Systems Maps of Content.md",
+    "File Sys Backups.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260317034930.png",
     "Memory Protection.md",
     "VM Key terms.md",
     "Execution of a Program.md",
@@ -360,7 +368,6 @@
     "VM.md",
     "Memory Management Maps of Content.md",
     "Page Table Structure.md",
-    "Translation Lookaside Buffer.md",
     "Page Table Implementation.md",
     "Paging Hardware.md",
     "Address Translation Scheme.md",
@@ -368,11 +375,6 @@
     "Free Frame.md",
     "MM Unit.md",
     "Paging System.md",
-    "Base and Bound Registers.md",
-    "Computer Science House of Content.md",
-    "Page Size.md",
-    "Basic Page Replacement.md",
-    "Deadlock MOC.md",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260315235202.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260315215421.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260315215401.png",
@@ -382,7 +384,6 @@
     "I",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260315154819.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260315153948.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260315153816.png",
     "Untitled.base",
     "obsidian-repo/remote-repo/Untitled",
     "obsidian-repo/remote-repo/DS322/Introduction to Data Science",

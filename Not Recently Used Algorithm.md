@@ -3,6 +3,7 @@
 	Two status bits are associated with each page table entry
 		- R bit is set whenever the page is ref
 		- M bit is set when page is modified
+	Upward Converyor belt
 
 ^84028e
 
