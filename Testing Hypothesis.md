@@ -1,0 +1,27 @@
+- Is it just a coincidence
+- Example
+	- Collect tip service from customer
+		- M157 F87
+		- Found out that the avg tip for m is higher than f by 0.256$
+			- Is it a coincidence?
+	-  Set hypo first that what we see is a coin (H_0 : null hypo)
+		- H_1 (alter hypo)  contradict that this isn't a coin, this is real
+		- If we argue that h_0  is false , then we can accept h_1 (real not a coin)
+		- We set ระดับนัยสำคัญ (a) in percentage
+			- It is an acceptable risk that accept the fact the the hypo is real even though it is a coin
+			- set before setting a hypo
+			- 0.1 0.05 0.01
+	- The mindset is that we hypo that what we see is a coin (H_0)
+	- Then test that the thing that we see on how often it could happen if it is a coin at the very least.
+		- Called p-value
+		- test by formula or resample
+	- ***If the change (p-value) is lower than ระดับนัยสำคัญ (a) then we reject H_0 and accept H_1***
+	- #### Test by resample
+		- Merge both gender together
+		- Resample without regard for gender like A B
+		- Calc the diff of the avg tip between A and B
+		- Do it a lot of time ex 1000
+		- then at round 1000 , does this round have it more or equal than 0.256
+			- the 'it' is called p-value
+	- use ttest_ind to find p-value
+	- ##### p-value helps you decide if the results of an experiment are "real" or if they likely happened just by random luck.

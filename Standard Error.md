@@ -1,0 +1,3 @@
+- Reliability metric of a group of data in that seed (การสุมครั้งนั้น)
+- Use std from many group sample seed
+- 

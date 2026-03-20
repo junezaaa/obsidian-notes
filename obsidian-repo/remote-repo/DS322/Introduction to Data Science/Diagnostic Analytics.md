@@ -1,6 +1,6 @@
 #analytics 
 - Why it happened?
-- Insight
+- Insight (the how and the why the data and knowledge have connection with each other)
 - Medium Value, and Difficulty
 
 	Example sales by customer time segments, and region, cross-tabbing data from several data. Self Service Visualization.

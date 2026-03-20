@@ -1,0 +1,16 @@
+- Simple Clustering
+- K is amount of cluster needing to make
+- K centroid is randomize
+- calc the distance between each sample and all centroid
+- put each sample to be near the closest centroid
+- recalc the centriod dist using the avg of all clus mem
+- keep doing the above until the cluster are stable 
+
+- Pro 
+	- Easy simple
+	- suitable for circle cluster meaning they have corr data
+- Con
+	- Sensitive to initial centroid of each group
+	- must scale feature to be in the same scale
+	- cannot use feature that is a category
+	- not for oval or very disperse
