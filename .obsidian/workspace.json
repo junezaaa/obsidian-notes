@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBSCAN.md",
+                "file": "Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBSCAN"
+              "title": "Protocol"
             }
           },
           {
@@ -257,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e73cc46c1d21fe68",
@@ -375,11 +376,23 @@
   },
   "active": "9c833fa26c01f48a",
   "lastOpenFiles": [
-    "obsidian-repo/remote-repo/DS322/DSMOC/ML MOC.md",
+    "Introduction MOC.md",
+    "Protocol.md",
+    "The Internet.md",
+    "Introduction Goal.md",
+    "Network MOC.md",
+    "Application Layer MOC.md",
+    "Year 3 MOC.md",
+    "Computer Science House of Content.md",
+    "Operation System Maps of Content.md",
+    "Introduction.md",
     "DBSCAN.md",
+    "Database Maps of Content.md",
+    "obsidian-repo/remote-repo/DS322/Data Science Maps of Content (สารบัญ).md",
+    "obsidian-repo/remote-repo/DS322/DSMOC/ML MOC.md",
+    "Untitled.md",
     "K-mean Clustering.md",
     "Clustering.md",
-    "obsidian-repo/remote-repo/DS322/Data Science Maps of Content (สารบัญ).md",
     "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Statistic MOC.md",
     "Inferential Statistic (เชิงอนุมาน).md",
     "Testing Hypothesis.md",
@@ -391,19 +404,7 @@
     "Biased estimator.md",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260321030731.png",
     "Law of Large Numbers.md",
-    "Descriptive Statistics (เชิงพรรณณา).md",
-    "Relationship between two dataset.md",
-    "Dispersion of a single dataset.md",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260321023607.png",
-    "Midpoint of a single dataset.md",
-    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Data Analytic.md",
-    "Descriptive vs Inferential.md",
-    "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Process MOC.md",
-    "Data Analysis.md",
-    "Data Dissemination.md",
-    "Data Visualization.md",
-    "Evaluation.md",
-    "obsidian-repo/remote-repo/DS322/Introduction to Data Science/Diagnostic Analytics.md",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260321015318.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260321013436.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260321013157.png",
