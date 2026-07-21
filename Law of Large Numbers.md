@@ -1,0 +1,5 @@
+- Uncertainty have more affect to group sample that have a low amount vice versa
+- so the law state that 
+	- "The more data you have, the more "predictable" the average becomes."
+	- Coin flip more flip more likely the data is 50/50
+	- Law may not be true for bias data or a high dispersion of the population 

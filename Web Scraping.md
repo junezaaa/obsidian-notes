@@ -1,0 +1,4 @@
+- Data in front of the web but no api to pull the data
+- Use software tool to pull the data out of it like Perl, Awk & Sed
+	- If there is API , prioritize it
+	- Scrape with ethic (LOL)

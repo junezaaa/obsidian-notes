@@ -1,0 +1,2 @@
+- Log is file that collect the work of the system or IOT
+- Must write a program the analyze the output of log first since log is hard to read
