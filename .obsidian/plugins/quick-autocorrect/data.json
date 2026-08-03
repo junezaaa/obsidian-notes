@@ -1,0 +1,11 @@
+{
+  "customWords": [
+    "KUWIN",
+    "Wifi",
+    "Gbps",
+    "LANS"
+  ],
+  "endpointMode": "standard",
+  "serverUrl": "https://api.languagetool.org",
+  "language": "en-US"
+}
