@@ -1,0 +1,11 @@
+- status code appears in 1st line in server-to-client response msg
+- some sample codes:
+	- 200 OK
+		-  request succeeded
+	- 301 Moved Permanently 
+		- req obj moved, new location specified later in this msg
+	- 400 Bad Request 
+		- request msg not understood by server
+	- 404 Not Found
+		- requested document not found on this **server**
+	- 505 HTTP Version Not **Supported**

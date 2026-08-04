@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Cookies"
+            }
+          },
+          {
+            "id": "132686f98f62fdd5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -205,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#MOC",
+                "query": "stateless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,11 +236,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e73cc46c1d21fe68",
@@ -348,41 +360,42 @@
   },
   "active": "ff7c53feb8e6053d",
   "lastOpenFiles": [
-    "Network Edge.md",
-    "Hosts.md",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804024330.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804024307.png",
-    "Links.md",
-    "Access networks.md",
-    "Introduction MOC.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260805015758.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260805015309.png",
+    "HTTP.md",
+    "Cookies.md",
+    "Web and HTTP.md",
+    "HTTP response status code.md",
+    "HTTP request message.md",
+    "HTTP Connection.md",
+    "Persistent HTTP.md",
+    "Non-persistent HTTP.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260805005858.png",
+    "Webpage.md",
+    "Application Layer MOC.md",
+    "Principle of network application.md",
+    "Securing TCP.md",
+    "Internet transport protocol services.md",
+    "What transport service does an app need.md",
+    "Application layer Protocol define.md",
+    "Addressing processes.md",
+    "Sockets.md",
+    "Process Communication.md",
+    "Peer-peer architecture.md",
+    "Client-server paradigm.md",
+    "Creating a network App.md",
+    "Application Layer Goal.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804222504.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804221606.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804215715.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804215022.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804215000.png",
     "Network MOC.md",
     "Year 3 MOC.md",
     "Computer Science House of Content.md",
-    "Wireless access networks.md",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804024330.png",
+    "obsidian-repo/remote-repo/Attachment/Pasted image 20260804024307.png",
     "obsidian-repo/remote-repo/Attachment/Pasted image 20260804022133.png",
-    "Law of Large Numbers.md",
-    "Application Layer MOC.md",
-    "Protocol.md",
-    "The Internet.md",
-    "Introduction Goal.md",
-    "Operation System Maps of Content.md",
-    "Introduction.md",
-    "DBSCAN.md",
-    "Database Maps of Content.md",
-    "obsidian-repo/remote-repo/DS322/Data Science Maps of Content (สารบัญ).md",
-    "obsidian-repo/remote-repo/DS322/DSMOC/ML MOC.md",
-    "Untitled.md",
-    "K-mean Clustering.md",
-    "Clustering.md",
-    "obsidian-repo/remote-repo/DS322/DSMOC/Data Sci Statistic MOC.md",
-    "Inferential Statistic (เชิงอนุมาน).md",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321034714.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321030731.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321023607.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321015318.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321013436.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260321013157.png",
-    "obsidian-repo/remote-repo/Attachment/Pasted image 20260319045956.png",
     "I",
     "Untitled.base",
     "obsidian-repo/remote-repo/Untitled",

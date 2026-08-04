@@ -3,7 +3,8 @@
     "KUWIN",
     "Wifi",
     "Gbps",
-    "LANS"
+    "LANS",
+    "obj"
   ],
   "endpointMode": "standard",
   "serverUrl": "https://api.languagetool.org",
