@@ -1,0 +1,9 @@
+- uses TCP to reliably transfer email msg from client
+	- direct transfer: sending server to receiving server
+- Three phases of transfer
+	- SMTP handshaking
+	- SMTP transfer of msg
+	- SMTP closure
+- command/response interaction (like HTTP)
+	- commands: ASCII text
+	- response: status code and phrase

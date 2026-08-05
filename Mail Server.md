@@ -1,0 +1,6 @@
+- Mail servers:
+	- mailbox contain incoming msg for user
+	- msg queue of outgoing (to be sent) mail msg
+- SMTP protocol between mail servers to send email msg
+	- client: sending mail server
+	- "server" : receiving mail server

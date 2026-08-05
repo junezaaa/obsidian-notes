@@ -1,0 +1,7 @@
+- Conditional GET
+- Goal : don't send obj if browser has up-to-date cached version
+	- no obj transmission delay (or use of network resource)
+- client: specify date of browser-cached copy in HTTP request
+	- If-modified-since: <date>
+- server: response contains no obj if browser-cached copy is up-to-date:
+	- HTPP/1.0 304 Not Modified

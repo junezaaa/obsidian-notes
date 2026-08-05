@@ -5,3 +5,7 @@
 [[HTTP request message]]
 [[HTTP response status code]]
 [[Cookies]]
+[[Web caches]]
+[[Browser caching]]
+[[HTTP2]]
+[[QUIC]]
