@@ -1,0 +1,9 @@
+- to receive messages, process must have *identifier* 
+- Many process can be running on the same host, so IP addr of host isn't suited for identifying the process to check which process run
+- *identifier* includes both IP address and port numbers associated with process on host
+	- EX port num:
+		- HTTP ser: 80
+		- Mail ser: 50
+	- to send HTTP message to certain website
+		- IP addr (EX): 123.456.789.12
+		- port number : 80

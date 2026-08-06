@@ -1,0 +1,3 @@
+- Web page consists of objects, each of which can be stored on different Web servers
+- object can be HTML file, JPEGH image, Java applet, audio file
+- web page consists of base HTML-file which includes several referenced objects, each addressable by a URL, e.g.,

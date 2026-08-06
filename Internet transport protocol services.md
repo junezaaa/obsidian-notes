@@ -1,0 +1,11 @@
+- TCP service:
+	- **reliable transport for process**
+	- flow control so sender wont overwhelm receiver
+	- congestion control: throttle sender when network overloaded
+	- connection-oriented: setup required between client and server processes
+	- **doesnt provide** : timing, guaranteed min throughput, security
+- UDP service
+	- unreliable data transfer for process
+	- doesnt provide **jackshit** (all the thing TCP provide & doesnt provide)
+	- but UDP speed is nearly instantaneous, ideal for gaming, DNS , Youtube 
+- ![[Pasted image 20260804222504.png|556]]

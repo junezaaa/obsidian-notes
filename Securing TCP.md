@@ -1,0 +1,10 @@
+- Vanilla TCP & UDP sockets
+	- no encryption
+	- cleartext pwd sent into socket traverse internet in cleartext (!)
+- Transport Layer Security (TLS)
+	- provides encrypted TCP connections
+	- data integrity
+	- end-point authentication
+- TLS implemented in application layer
+	- apps use TLS libraries, that use TCP in turn
+	- cleartext sent into "socket" traverse Internet encrypted 

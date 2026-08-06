@@ -1,0 +1,5 @@
+- no always on server
+- peer request service from other peers, provide service in return to other peers
+- peers are intermittently connected and change Ip addr
+- P2P file sharing (BitTorrent)
+- ![[Pasted image 20260804215022.png|143]]

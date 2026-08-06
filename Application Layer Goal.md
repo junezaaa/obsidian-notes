@@ -1,0 +1,12 @@
+
+- Conceptual and implementation aspects of application-layer protocols
+	- transport-layer service models
+	- client-server paradigm
+	- peer-to-peer paradigm
+- learn about protocol
+	- HTTP
+	- SMTP, IMAP
+	- DNS
+	- video streaming systems, CDNs
+- programming network application
+	- socket API
